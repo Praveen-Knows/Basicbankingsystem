@@ -1,0 +1,44 @@
+body {
+  background-color: lightcyan;
+  color: black;
+}
+.heading {
+  font-family: "Nova Square", cursive;
+  text-align: center;
+  font-size: 2rem;
+}
+img {
+  border-radius: 100%;
+}
+.view-customers {
+  display: flex;
+  justify-content: center;
+}
+#view {
+  background-color: white;
+  color: black;
+  font-weight: bold;
+  font-size: 1.3rem;
+  min-height: 2rem;
+  min-width: 4rem;
+}
+.table-block {
+  text-align: center;
+  margin-top: 5vh;
+}
+table {
+  margin: 0 auto;
+  width: 50%;
+  background-color: aliceblue;
+  border-collapse: collapse;
+}
+tr {
+  height: 60px;
+}
+td,
+th {
+  border: 1px solid black;
+}
+.transfer-money {
+  text-align: center;
+}
